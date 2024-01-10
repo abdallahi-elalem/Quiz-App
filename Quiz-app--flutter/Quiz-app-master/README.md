@@ -1,6 +1,6 @@
 # Quiz App ✍🏻
 
-<p><img src="snapshot/here.png" /></p>
+<p><img src="snapshot/welcom.jpg" /></p>
 <p align="center"><b>Quiz App</b></p>
 
 
