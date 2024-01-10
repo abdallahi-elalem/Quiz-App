@@ -1,11 +1,5 @@
 # Quiz App ✍🏻
 
-<p><img src="snapshot/welcom.jpg" /></p>
-<p align="center"><b>Quiz App</b></p>
-
-
-
-
 <p><img src="snapshot/git.gif" /></p>
 <p align="center"><b>Quiz App</b></p>
 
